@@ -1,0 +1,71 @@
+#heading{
+    border: 2px solid green;
+    margin: 38px 385px 10px 523px;
+    border-radius: 10px;
+}
+
+#para-1 p{
+    font: 20px Arial, sans-serif;
+    line-height: 1.6;
+    text-align: justify;
+    margin: 35px 35px;
+    border: 2px solid red;
+    padding: 15px;
+    background-color: black;
+    color: white;
+}
+
+#para-2 p{
+    font: 20px Arial, sans-serif;
+    line-height: 1.6;
+    text-align: justify;
+    margin: 35px 35px;
+    border: 2px dashed red;
+    padding: 20px;
+    border-radius: 20px;
+    color: blue;
+}
+
+#para-3 p{
+    font: 20px Arial, sans-serif;
+    line-height: 1.6;
+    text-align: justify;
+    margin: 35px 35px;
+    border: 2px dashed red;
+    padding: 20px;
+   
+}
+#para-4 p{
+    font: 20px Arial, sans-serif;
+    line-height: 1.6;
+    text-align: justify;
+    margin: 35px 35px;
+    border: 2px dashed red;
+    padding: 20px;
+    
+}
+#para-5 p{
+    font: 20px Arial, sans-serif;
+    line-height: 1.6;
+    text-align: justify;
+    margin: 35px 35px;
+    border: 2px dashed red;
+    padding: 20px;
+    
+}
+
+#para-3{
+    margin: -44px 944px 10px 10px;
+    float: right;
+}
+#para-4{
+    margin: -1369px 452px 10px 505px;
+    float: right;
+}
+#para-5{
+    margin: -1373px -22px 10px 998px;
+    float: right;
+}
+.footer h4{
+  text-align: center;
+}
